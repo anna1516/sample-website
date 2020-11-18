@@ -1,0 +1,88 @@
+*{
+  padding: 0px;
+  margin: 0px;
+  color: white;
+}
+
+header{
+  background-image: url(../img/img01.jpg);
+  background-size: cover;
+  padding: 250px;
+  background-attachment: fixed;
+
+}
+.top-text{
+  text-align: center;
+}
+.top-text h1{
+  font-size: 80px;
+  font-family: 'Lobster Two', cursive;
+}
+.navtop{
+  font-family: 'Lobster Two', cursive;
+  font-size: 30px;
+}
+nav ul li i{
+  color: darkgray;
+  padding-left: 20px;
+}
+.night-sky{
+  background-image: url(../img/fix-bg.jpg);
+  padding: 300px;
+  background-size: cover;
+  text-align: center;
+  background-attachment: fixed;
+}
+.night-sky h2{
+  font-size: 80px;
+  font-family: 'Lobster Two', cursive;
+
+}
+
+.service-list{
+  background-color: black;
+}
+.service-list h2{
+  text-align: center;
+  font-size: 80px;
+  padding: 30px;
+  font-family: 'Lobster Two', cursive;
+}
+.service-list h3{
+  text-align: center;
+  padding-top: 30px;
+}
+.button{
+  text-align: center;
+}
+.service-list img{
+  border-radius: 30%;
+}
+.info{
+  border: solid white;
+  padding: 30px;
+}
+.night-sky h2{
+  padding-bottom: 40px;
+}
+.night-sky h3{
+  padding: 20px;
+}
+footer{
+  background-color: wheat;
+  font-size: 18px;
+  padding: 10px;
+}
+footer ul li a{
+  list-style: none;
+  color: darkgray;
+  text-decoration: none;
+
+}
+footer ul li{
+  list-style: none;
+}
+footer p{
+  color: black;
+  text-align: center;
+}
